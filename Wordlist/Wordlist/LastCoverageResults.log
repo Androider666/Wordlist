@@ -1,0 +1,21 @@
+[2019-03-14 21:39:02] [info] Start Program:
+Path:"D:\OneDrive\OneDrive - buaa.edu.cn\copy_able_vs\Wordlist\Debug\Wordlist.exe"
+Arguments:
+Working directory: "D:\OneDrive\OneDrive - buaa.edu.cn\copy_able_vs\Wordlist\Wordlist\"
+Modules: Selected: D:\OneDrive\OneDrive - buaa.edu.cn\copy_able_vs\Wordlist\Debug\Wordlist.exe Excluded: 
+Sources: Selected: D:\OneDrive\OneDrive - buaa.edu.cn\copy_able_vs\Wordlist\Wordlist Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\王尖兵\AppData\Local\Temp\zsnwojf3.pud 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2019-03-14 21:39:02] [info] Module: D:\OneDrive\OneDrive - buaa.edu.cn\copy_able_vs\Wordlist\Debug\Wordlist.exe is selected because it matches selected pattern: D:\OneDrive\OneDrive - buaa.edu.cn\copy_able_vs\Wordlist\Debug\Wordlist.exe
+[2019-03-14 21:39:02] [info] ----------------------------------------------------
+[2019-03-14 21:39:02] [info] Coverage binary generated in file: C:\Users\王尖兵\AppData\Local\Temp\zsnwojf3.pud
+[2019-03-14 21:39:02] [info] ----------------------------------------------------

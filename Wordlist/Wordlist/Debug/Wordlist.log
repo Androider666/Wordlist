@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  Wordlist.cpp
+  Wordlist.vcxproj -> D:\OneDrive\OneDrive - buaa.edu.cn\copy_able_vs\Wordlist\Debug\Wordlist.exe
+d:\onedrive\onedrive - buaa.edu.cn\copy_able_vs\wordlist\wordlist\wordlist.cpp(89): warning C6387: “file”可能是“0”: 这不符合函数“fprintf”的规范。
+d:\onedrive\onedrive - buaa.edu.cn\copy_able_vs\wordlist\wordlist\wordlist.cpp(132): warning C6387: “file”可能是“0”: 这不符合函数“fprintf_s”的规范。
+d:\onedrive\onedrive - buaa.edu.cn\copy_able_vs\wordlist\wordlist\wordlist.cpp(136): warning C6387: “file”可能是“0”: 这不符合函数“fclose”的规范。
+d:\onedrive\onedrive - buaa.edu.cn\copy_able_vs\wordlist\wordlist\wordlist.cpp(456): warning C6011: 取消对 NULL 指针“charchain”的引用。
+d:\onedrive\onedrive - buaa.edu.cn\copy_able_vs\wordlist\wordlist\wordlist.cpp(448): warning C6011: 取消对 NULL 指针“wordchain”的引用。
