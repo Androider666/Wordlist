@@ -1,0 +1,9 @@
+1 wrong format after -h!
+2 wrong format after -t!
+3 wrong format in argvs!
+4 file doesn't exsits!
+5 error when read file!
+6 There exists circle(s),check words again!
+7 error when write data!
+8 number of words larger than 10000!
+9 number of words larger than 100!
