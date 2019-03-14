@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  unittest1.cpp
+d:\onedrive\onedrive - buaa.edu.cn\vsfile\core\unittest\unittest1.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+    正在创建库 D:\OneDrive\OneDrive - buaa.edu.cn\VSFILE\Core\Debug\UnitTest.lib 和对象 D:\OneDrive\OneDrive - buaa.edu.cn\VSFILE\Core\Debug\UnitTest.exp
+  UnitTest.vcxproj -> D:\OneDrive\OneDrive - buaa.edu.cn\VSFILE\Core\Debug\UnitTest.dll
