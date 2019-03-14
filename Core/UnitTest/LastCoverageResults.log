@@ -1,0 +1,21 @@
+[2019-03-14 21:40:13] [info] Start Program:
+Path:"D:\OneDrive\OneDrive - buaa.edu.cn\VSFILE\Core\Release\UnitTest.dll"
+Arguments:
+Working directory: "D:\OneDrive\OneDrive - buaa.edu.cn\VSFILE\Core\UnitTest\"
+Modules: Selected: D:\OneDrive\OneDrive - buaa.edu.cn\VSFILE\Core\Release\Core.dll D:\OneDrive\OneDrive - buaa.edu.cn\VSFILE\Core\Release\UnitTest.dll Excluded: 
+Sources: Selected: D:\OneDrive\OneDrive - buaa.edu.cn\VSFILE\Core\Core D:\OneDrive\OneDrive - buaa.edu.cn\VSFILE\Core\UnitTest Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 1
+Export: Binary C:\Users\王尖兵\AppData\Local\Temp\pvrhes2v.eu2 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2019-03-14 21:40:13] [error] Error: Cannot run process, check if it is a valid executable:
+Path:"D:\OneDrive\OneDrive - buaa.edu.cn\VSFILE\Core\Release\UnitTest.dll"
+Arguments:
+Working directory: "D:\OneDrive\OneDrive - buaa.edu.cn\VSFILE\Core\UnitTest\"Last error code:193
